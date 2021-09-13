@@ -1,7 +1,7 @@
 # ISL-in-python
 This repository contains solutions to exercises (Conceptual, Applied) from An [Introduction to Statistical Learning with Applications in R, First Edition](https://www.statlearning.com/) By Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani, writen in Python as Jupyter Notebooks.
 
-![alt text](https://raw.githubusercontent.com/MostaAshour/ISL-in-python/main/ISL%20Cover.jpg?token=AMNDXI77A2QFS35XVW2MA5DBH2QE4 =415x623)
+![alt text](https://github.com/MostaAshour/ISL-in-python/blob/main/ISL%20Cover.jpg =415x623)
 
 You can find the statistic formulas in [LaTeX](https://en.wikipedia.org/wiki/LaTeX) system in each notebook. Each chapter notebook contains an index for each exercise for easier navigation.
 
