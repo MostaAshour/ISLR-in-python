@@ -18,3 +18,16 @@ Notebooks are in the folder "notebooks" [here]()
 * Chapter 8 - Tree-Based Methods ([Conceptual](), [Applied]())
 * Chapter 9 - Support Vector Machines ([Conceptual](), [Applied]())
 * Chapter 10 - Unsupervised Learning ([Conceptual](), [Applied]())
+
+# To run notebooks:
+- Running the notebooks enables you to go through and excute the code.
+- Trying, changing or adding new scripts.
+- Check/copy the Latex code for each presented formula.
+
+## To run Locally:
+  - hi
+  - bye
+
+## To run on google colab:
+  - hi two 
+  - bye two
