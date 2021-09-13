@@ -3,7 +3,7 @@ This repository contains solutions to exercises (Conceptual, Applied) from An [I
 
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/MostaAshour/ISL-in-python/blob/main/ISL%20Cover.jpg" width="200" height="400" />
 
-![alt text](https://github.com/MostaAshour/ISL-in-python/blob/main/ISL%20Cover.jpg)
+![](https://github.com/MostaAshour/ISL-in-python/blob/main/ISL%20Cover.jpg)
 
 You can find the statistic formulas in [LaTeX](https://en.wikipedia.org/wiki/LaTeX) system in each notebook. Each chapter notebook contains an index for each exercise for easier navigation.
 
