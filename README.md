@@ -21,13 +21,13 @@ Notebooks are in the folder "notebooks" [here]()
 
 # To run notebooks:
 - Running the notebooks enables you to go through and excute the code.
-- Trying, changing or adding new scripts.
+- Trying, modifying or adding new adjustments.
 - Check/copy the Latex code for each presented formula.
 
 **To run Locally:**
-  - hi
-  - bye
+- [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html#). I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) which make it easier for installing different packages and environments. The software includes everything you would need to run the repository in a smooth environment.
+- Download 
 
 **To run on google colab:**
-  - hi two 
-  - bye two
+- hi two 
+- from [here](https://lalorosas.com/blog/github-colab-drive)
