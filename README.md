@@ -24,10 +24,10 @@ Notebooks are in the folder "notebooks" [here]()
 - Trying, changing or adding new scripts.
 - Check/copy the Latex code for each presented formula.
 
-## To run Locally:
+**To run Locally:**
   - hi
   - bye
 
-## To run on google colab:
+**To run on google colab:**
   - hi two 
   - bye two
