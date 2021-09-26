@@ -8,7 +8,7 @@ You can find the statistic formulas in [LaTeX](https://en.wikipedia.org/wiki/LaT
 There are no official solutions for these questions. These are **my Own Answers** and may be inccorect. If you spot any mistake/inconsistency, I will be glad if you knock me via [Linkedin](https://www.linkedin.com/in/mosta-ashour/) or at mostaomg@gmail.com 😊
 
 # To view notebooks:
-Notebooks are in the folder "notebooks" [here]()
+Notebooks are in the folder "notebooks" [here](https://github.com/MostaAshour/ISL-in-python/tree/main/Notebooks)
 * Chapter 2 - Statistical Learning ([Conceptual](), [Applied]())
 * Chapter 3 - Linear Regression ([Conceptual](), [Applied]())
 * Chapter 4 - Classification ([Conceptual](), [Applied]())
