@@ -9,12 +9,12 @@ There are no official solutions for these questions. These are **my Own Answers*
 
 # To view notebooks:
 Notebooks are in the directory [Notebooks](https://github.com/MostaAshour/ISL-in-python/tree/main/Notebooks)
-* Chapter 2 - Statistical Learning ([Conceptual](), [Applied]())
-* Chapter 3 - Linear Regression ([Conceptual](), [Applied]())
-* Chapter 4 - Classification ([Conceptual](), [Applied]())
-* Chapter 5 - Resampling Methods ([Conceptual](), [Applied]())
-* Chapter 6 - Linear Model Selection and Regularization ([Conceptual](), [Applied]())
-* Chapter 7 - Moving Beyond Linearity ([Conceptual](), [Applied]())
+* Chapter 2 - Statistical Learning ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/2_4_0_Statistical_Learning_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/2_4_1_Statistical_Learning_Applied.ipynb))
+* Chapter 3 - Linear Regression ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/3_7_0_Linear_Regression_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/3_7_1_Linear_Regression_Applied.ipynb))
+* Chapter 4 - Classification ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/4_7_0_Classification_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/4_7_1_Classification_Applied.ipynb))
+* Chapter 5 - Resampling Methods ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/5_4_0_Resampling_Methods_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/5_4_1_Resampling_Methods_Applied.ipynb))
+* Chapter 6 - Linear Model Selection and Regularization ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/6_8_0_Linear_Model_Selection_and_Regularisation_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/6_8_1_Linear_Model_Selection_and_Regularisation_Applied.ipynb))
+* Chapter 7 - Moving Beyond Linearity ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/7_9_0_Moving_Beyond_Linearity_Conceptual.ipynb), [Applied]())
 * Chapter 8 - Tree-Based Methods ([Conceptual](), [Applied]())
 * Chapter 9 - Support Vector Machines ([Conceptual](), [Applied]())
 * Chapter 10 - Unsupervised Learning ([Conceptual](), [Applied]())
