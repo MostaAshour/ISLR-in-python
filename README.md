@@ -25,8 +25,8 @@ Notebooks are in the directory [Notebooks](https://github.com/MostaAshour/ISL-in
 - Check/copy the Latex code for each presented formula.
 
 **To run Locally:**
-- [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html#). I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) which make it easier for installing different packages and environments. The software includes everything you would need to run the repository in a smooth environment.
-- Download 
+1- [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html#). I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) which make it easier for installing different packages and environments. The software includes everything you would need to run the repository in a smooth environment.
+2- Download the repo from [here](https://github.com/MostaAshour/ISL-in-python/archive/refs/heads/main.zip) as a zip file then extract.
 
 **To run on google colab:**
 - hi two 
