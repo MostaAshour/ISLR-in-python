@@ -20,14 +20,29 @@ Notebooks are in the directory [Notebooks](https://github.com/MostaAshour/ISL-in
 * Chapter 10 - Unsupervised Learning ([Conceptual](), [Applied]())
 
 # To run notebooks:
-- Running the notebooks enables you to go through and excute the code.
-- Trying, modifying or adding new adjustments.
-- Check/copy the Latex code for each presented formula.
+* Running the notebooks enables you to go through and excute the code.
+* Trying, modifying or adding new adjustments.
+* Check/copy the Latex code for each presented formula.
 
 **To run Locally:**
-1- [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html#). I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) which make it easier for installing different packages and environments. The software includes everything you would need to run the repository in a smooth environment.
-2- Download the repo from [here](https://github.com/MostaAshour/ISL-in-python/archive/refs/heads/main.zip) as a zip file then extract.
+1. [Install Jupyter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html#). I recommend installing [Anaconda](https://docs.anaconda.com/anaconda/install/index.html) which make it easier for installing different packages and environments. The software includes everything you would need to run the repository in a smooth environment.
+2. Download the repo from [here](https://github.com/MostaAshour/ISL-in-python/archive/refs/heads/main.zip) as a zip file then Extract.
+3. Run jupyter notebook to run the Notebook App server locally on your machine. It should launch in your browser.
+4. In the Notebook App browser, navigate to the repo directory and open the notebook you would like to explore. 
 
 **To run on google colab:**
-- hi two 
-- from [here](https://lalorosas.com/blog/github-colab-drive)
+* [Eduardo Rosas](https://github.com/LaloCo) has posted a great blog about Cloning a GitHub repo into Drive from Google Colab [here](https://lalorosas.com/blog/github-colab-drive).
+* To summarize the blog in simple two steps:
+1. To access Google Drive from Google Colab, execute this next command on any Colab notebook and follow the link that it will display in the output. You then log in with your Google account, copy the provided key, and paste it back into colab: 
+
+    ``` python
+    from google.colab import drive
+    drive.mount('/content/drive')
+    ```
+2. Change the Directory to the desired path, and let's say in the main Directory, following by cloning the repo "Copying the repo to the specified Drive path" which is this repo as following:
+
+    ```python
+    %cd /content/drive/MyDrive
+    !git clone https://github.com/MostaAshour/ISL-in-python.git
+    ```
+And done! Now you can run the notebooks directly from your Google Drive.
