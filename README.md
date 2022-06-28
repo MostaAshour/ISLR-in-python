@@ -15,7 +15,7 @@ Notebooks are in the directory [Notebooks](https://github.com/MostaAshour/ISL-in
 * Chapter 5 - Resampling Methods ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/5_4_0_Resampling_Methods_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/5_4_1_Resampling_Methods_Applied.ipynb))
 * Chapter 6 - Linear Model Selection and Regularization ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/6_8_0_Linear_Model_Selection_and_Regularisation_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/6_8_1_Linear_Model_Selection_and_Regularisation_Applied.ipynb))
 * Chapter 7 - Moving Beyond Linearity ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/7_9_0_Moving_Beyond_Linearity_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/7_9_1_Moving_Beyond_Linearity_Applied.ipynb))
-* Chapter 8 - Tree-Based Methods ([Conceptual](), [Applied]())
+* Chapter 8 - Tree-Based Methods ([Conceptual](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/8_4_0_Tree-Based_Methods_Conceptual.ipynb), [Applied](https://github.com/MostaAshour/ISL-in-python/blob/main/Notebooks/8_4_1_Tree-Based_Methods_Applied.ipynb))
 * Chapter 9 - Support Vector Machines ([Conceptual](), [Applied]())
 * Chapter 10 - Unsupervised Learning ([Conceptual](), [Applied]())
 
